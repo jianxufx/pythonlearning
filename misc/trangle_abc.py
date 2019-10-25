@@ -11,4 +11,4 @@ for a in range(1,19):
                 print(a,b,c)
 print("共有{}种可能".format(count))
 
-#
+#初学python，感觉这门语言语法简单，编码效率高，如果用C语言写上面的代码会繁琐一些。
